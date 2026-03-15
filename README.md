@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitas Credit Corp.](http://navitascredit.com)** | **[Debt & Resolution Agent](https://jobright.ai/jobs/info/69b6fc0b3b74eb1e2c849ffe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC | On Site | Mar 15 |
+| **[Downtown Music](https://www.downtownmusic.com)** | **[Coordinator, Sync Licensing](https://jobright.ai/jobs/info/69b6fb8f56973837413c35de?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Mar 15 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Bilingual Attorney (Spanish)](https://jobright.ai/jobs/info/69b6f3703b74eb1e2c848ec4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Edison, NJ | On Site | Mar 15 |
 | **[Control Risks](https://www.controlrisks.com)** | **[GSOC Executive Protection Analysts - Night Shift](https://jobright.ai/jobs/info/69b6eb0856973837413c233e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | Hybrid | Mar 15 |
 | **[Mountain West Bank](http://mountainwestbank.com)** | **[Corporate Fraud Operations Analyst](https://jobright.ai/jobs/info/69b6e01956973837413c1ee6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Spokane, WA | On Site | Mar 15 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Progressive Insurance](https://www.progressive.com)** | **[Insurance Defense Attorney -- Bodily Injury](https://jobright.ai/jobs/info/69b62adb56973837413b6b88?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Hybrid | Mar 14 |
 | **[USAA](https://www.usaa.com)** | **[Auto Adjuster - Non-Injury](https://jobright.ai/jobs/info/69b6185856973837413b5283?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chesapeake, VA | Hybrid | Mar 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Claims Representative - Commercial Auto Property Damage](https://jobright.ai/jobs/info/69b6103456973837413b4ffe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boston, MA | On Site | Mar 14 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c438?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA, US | Remote | Mar 14 |
-| ↳ | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c43a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Irvine | Remote | Mar 14 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c43a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Irvine | Remote | Mar 14 |
+| ↳ | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60c963b74eb1e2c83c438?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA, US | Remote | Mar 14 |
 | ↳ | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60b7756973837413b4efb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Moon Township, PA, US | Remote | Mar 14 |
 | ↳ | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60aad06c1ba00c547e3e4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Mar 14 |
 | ↳ | **[Title Coordinator/Team Member - Originations Title and Close](https://jobright.ai/jobs/info/69b60aac06c1ba00c547e3dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US | Remote | Mar 14 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Dunham & Jones, Attorneys at Law, P.C.](https://www.dunhamlaw.com)** | **[Bryan/College Station Criminal Defense Attorney](https://jobright.ai/jobs/info/69b5be5a56973837413b29cb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bryan, TX | On Site | Mar 14 |
 | **[PNC](http://www.pnc.com)** | **[Detection & Investigation Analyst Lead- FD&R: Monday-Friday 9:00am-5:30pm EST](https://jobright.ai/jobs/info/69b5be3406c1ba00c547b79f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Birmingham, AL | On Site | Mar 14 |
 | ↳ | **[Detection & Investigation Analyst Lead- FD&R: Monday-Friday 10:00am-6:30pm EST](https://jobright.ai/jobs/info/69b5be3206c1ba00c547b79c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Birmingham, AL | On Site | Mar 14 |
-| ↳ | **[Detection & Investigation Analyst Lead- FD&R: Tuesday-Saturday 8:30am-5:00pm EST](https://jobright.ai/jobs/info/69b5be1d06c1ba00c547b76f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Birmingham, AL | On Site | Mar 14 |
 | ↳ | **[Detection & Investigation Analyst Lead- FD&R: Monday-Friday 8:00am-4:30pm EST](https://jobright.ai/jobs/info/69b5be1d06c1ba00c547b76e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Birmingham, AL | On Site | Mar 14 |
+| ↳ | **[Detection & Investigation Analyst Lead- FD&R: Tuesday-Saturday 8:30am-5:00pm EST](https://jobright.ai/jobs/info/69b5be1d06c1ba00c547b76f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Birmingham, AL | On Site | Mar 14 |
 | **[Dunham & Jones, Attorneys at Law, P.C.](https://www.dunhamlaw.com)** | **[Fort Worth Associate Attorney](https://jobright.ai/jobs/info/69b5be1a06c1ba00c547b768?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | On Site | Mar 14 |
 | ↳ | **[Corpus Christi Legal Assistant](https://jobright.ai/jobs/info/69b5be1a06c1ba00c547b769?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Corpus Christi, TX | On Site | Mar 14 |
 | ↳ | **[Dallas Criminal Defense Attorney](https://jobright.ai/jobs/info/69b5b93356973837413b26d7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | On Site | Mar 14 |
@@ -161,8 +163,8 @@ For a complete list, click the following sortable link below:
 | **[McCalla Raymer Leibert Pierce, LLP](http://www.mccalla.com/)** | **[Legal Assistant](https://jobright.ai/jobs/info/69b5265506c1ba00c546e9eb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Long Beach, CA | On Site | Mar 14 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Trade Surveillance Analyst (Temp)](https://jobright.ai/jobs/info/69b5244706c1ba00c546e74d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Mar 14 |
 | ↳ | **[Fraud Analyst](https://jobright.ai/jobs/info/69b523553b74eb1e2c82c473?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Mar 14 |
-| **[USAA](https://www.usaa.com)** | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b5191606c1ba00c546d12c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Hybrid | Mar 14 |
-| ↳ | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b5191606c1ba00c546d12d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chesapeake, VA | Hybrid | Mar 14 |
+| **[USAA](https://www.usaa.com)** | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b5191606c1ba00c546d12d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chesapeake, VA | Hybrid | Mar 14 |
+| ↳ | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b5191606c1ba00c546d12c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Hybrid | Mar 14 |
 | ↳ | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b517f43b74eb1e2c82afaf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Hybrid | Mar 14 |
 | ↳ | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b517d656973837413a3b7d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 14 |
 | ↳ | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b517d456973837413a3b78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | Hybrid | Mar 14 |
@@ -173,8 +175,8 @@ For a complete list, click the following sortable link below:
 | **[The United Firm | La Liga Defensora, APC](http://www.matianlegal.com/)** | **[Immigration Attorney - EOIR](https://jobright.ai/jobs/info/69b5032006c1ba00c546a036?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | Hybrid | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5032006c1ba00c546a034?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5031f06c1ba00c546a032?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Jose, CA | On Site | Mar 13 |
-| ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5026856973837413a1282?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5026856973837413a1281?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | Hybrid | Mar 13 |
+| ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5026856973837413a1282?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5026756973837413a127d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oakland, CA | Hybrid | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b5026356973837413a126e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[Immigration Attorney](https://jobright.ai/jobs/info/69b502373b74eb1e2c827de8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 13 |
@@ -191,8 +193,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bilingual Shelter Advocate](https://jobright.ai/jobs/info/69b4d2893b74eb1e2c8232b0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pasadena, TX | On Site | Mar 13 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/69b1c73865de58104c70d355?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Madison, WI | On Site | Mar 13 |
 | ↳ | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/69b08108dfaeda6ff59a7926?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Mar 13 |
-| ↳ | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/69b081650b2db6275c04973e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Madison, WI | Hybrid | Mar 13 |
 | ↳ | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/69b077580b2db6275c0472f3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Detroit, MI | Hybrid | Mar 13 |
+| ↳ | **[Intellectual Property Project Assistant](https://jobright.ai/jobs/info/69b081650b2db6275c04973e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Madison, WI | Hybrid | Mar 13 |
 | **[Fair Share Housing Center](https://fairsharehousing.org)** | **[Staff Attorney](https://jobright.ai/jobs/info/69b4cd953b74eb1e2c823003?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cherry Hill, New Jersey, United States | Hybrid | Mar 13 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Mortgage Funder, Third Party Residential Underwriting](https://jobright.ai/jobs/info/69b4cd753b74eb1e2c822fbc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Montreal, QC, Canada | Hybrid | Mar 13 |
 | **[RRD](http://www.rrd.com)** | **[Administrative Associate (Legal Services)](https://jobright.ai/jobs/info/69b4cd3b06c1ba00c546504f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Warrenville, IL | Remote | Mar 13 |
@@ -200,15 +202,15 @@ For a complete list, click the following sortable link below:
 | **[Allstate](http://www.allstate.com)** | **[Property Adjuster - Inside - Remote](https://jobright.ai/jobs/info/69b4ca86569738374139b944?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 13 |
 | ↳ | **[Field Auto Claims Analyst III](https://jobright.ai/jobs/info/69b4ca7c3b74eb1e2c822654?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Missouri, United States | On Site | Mar 13 |
 | **[MCA - Merchandising Consultants Associates](https://corporate.mca.ca)** | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca143b74eb1e2c8225ad?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Markham, ON | On Site | Mar 13 |
-| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca133b74eb1e2c8225a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Toronto Area, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca133b74eb1e2c8225ab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca133b74eb1e2c8225aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ajax, ON | On Site | Mar 13 |
+| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca133b74eb1e2c8225a9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Toronto Area, ON | On Site | Mar 13 |
+| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca1206c1ba00c5464630?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bradford, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca1206c1ba00c546462c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Aurora, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca1206c1ba00c546462f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | North York, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca1206c1ba00c546462d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Uxbridge, ON | On Site | Mar 13 |
-| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca1206c1ba00c5464630?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bradford, ON | On Site | Mar 13 |
-| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca04569738374139b890?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Milton, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca04569738374139b891?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pickering, ON | On Site | Mar 13 |
+| ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca04569738374139b890?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Milton, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca03569738374139b88e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Richmond Hill, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca03569738374139b88d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newmarket, ON | On Site | Mar 13 |
 | ↳ | **[Retail Representative (Compliance Auditor)](https://jobright.ai/jobs/info/69b4ca03569738374139b88f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Keswick, ON | On Site | Mar 13 |
@@ -345,15 +347,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b455945697383741390cf9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Montréal, QC, CA | Hybrid | Mar 13 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Claims Property Adjuster](https://jobright.ai/jobs/info/69b4709206c1ba00c545e0a5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Costa Mesa, CA | On Site | Mar 13 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Asset Protection - Agent - Scottsdale Promenade Rack](https://jobright.ai/jobs/info/69b453d05697383741390b0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Scottsdale, AZ | On Site | Mar 13 |
-| **[Partnership HealthPlan of California](http://partnershiphp.org)** | **[Temporary Claims Examiner I](https://jobright.ai/jobs/info/69b4715e3b74eb1e2c81c275?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Fairfield | On Site | Mar 13 |
-| ↳ | **[Temporary Claims Examiner I](https://jobright.ai/jobs/info/69b4721606c1ba00c545e206?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfield, CA, US | On Site | Mar 13 |
-| **[Sidley Austin LLP](http://www.sidley.com)** | **[CLE Coordinator](https://jobright.ai/jobs/info/69b470125697383741394624?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-NY-New York | On Site | Mar 13 |
-| ↳ | **[CLE Coordinator](https://jobright.ai/jobs/info/69b471493b74eb1e2c81c20f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY, US | On Site | Mar 13 |
+| **[Partnership HealthPlan of California](http://partnershiphp.org)** | **[Temporary Claims Examiner I](https://jobright.ai/jobs/info/69b4721606c1ba00c545e206?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfield, CA, US | On Site | Mar 13 |
+| ↳ | **[Temporary Claims Examiner I](https://jobright.ai/jobs/info/69b4715e3b74eb1e2c81c275?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Fairfield | On Site | Mar 13 |
+| **[Sidley Austin LLP](http://www.sidley.com)** | **[CLE Coordinator](https://jobright.ai/jobs/info/69b471493b74eb1e2c81c20f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY, US | On Site | Mar 13 |
+| ↳ | **[CLE Coordinator](https://jobright.ai/jobs/info/69b470125697383741394624?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-NY-New York | On Site | Mar 13 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Asset Protection - Coordinator - East Coast Fulfillment Center](https://jobright.ai/jobs/info/69b4707f06c1ba00c545e067?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Elizabethtown, PA | On Site | Mar 13 |
 | **[Command Investigations](https://www.GoCommand.com)** | **[Administrative - Quality Assurance Specialist](https://jobright.ai/jobs/info/69b46e71569738374139430c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lancaster,PA,US | On Site | Mar 13 |
 | **[WSM Law](http://www.wsm-law.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b471bf56973837413948cb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | On Site | Mar 13 |
-| **[Gowling WLG](https://gowlingwlg.com/)** | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b450063b74eb1e2c81889e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Toronto, ON, CA | Hybrid | Mar 13 |
-| ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b450063b74eb1e2c8188a2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hamilton, ON, CA | Hybrid | Mar 13 |
+| **[Gowling WLG](https://gowlingwlg.com/)** | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b450063b74eb1e2c8188a2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hamilton, ON, CA | Hybrid | Mar 13 |
+| ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b450063b74eb1e2c81889e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Toronto, ON, CA | Hybrid | Mar 13 |
 | ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b450053b74eb1e2c81889c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Calgary, AB, CA | Hybrid | Mar 13 |
 | **[Anoka County](http://www.anokacountymn.gov)** | **[Law Clerk (Temporary)](https://jobright.ai/jobs/info/69b44f8c3b74eb1e2c818746?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Anoka, MN | On Site | Mar 13 |
 | **[Venable LLP](http://www.venable.com)** | **[Commercial Litigation Paralegal](https://jobright.ai/jobs/info/69b44f5006c1ba00c54594fb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | On Site | Mar 13 |
@@ -368,8 +370,8 @@ For a complete list, click the following sortable link below:
 | **[Skoler, Abbott & Presser, P.C.](http://www.skoler-abbott.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b4411b3b74eb1e2c816851?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Springfield, MA | Hybrid | Mar 13 |
 | **[Frankl Kominsky Injury Lawyers](http://www.fklegal.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b43f51569738374138e18e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boynton Beach, FL | On Site | Mar 13 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[Intellectual Property Litigation (Patent) Associate](https://jobright.ai/jobs/info/69a14108d29bbd4d8e6ad72f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 13 |
-| **[Gowling WLG](https://gowlingwlg.com/)** | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b45a3d06c1ba00c545ad32?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ottawa, ON, CA | Hybrid | Mar 13 |
-| ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b45a3d06c1ba00c545ad31?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kitchener, ON, CA | Hybrid | Mar 13 |
+| **[Gowling WLG](https://gowlingwlg.com/)** | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b45a3d06c1ba00c545ad31?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kitchener, ON, CA | Hybrid | Mar 13 |
+| ↳ | **[Conflicts Lawyer](https://jobright.ai/jobs/info/69b45a3d06c1ba00c545ad32?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ottawa, ON, CA | Hybrid | Mar 13 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Auto Physical Damage Claim Rep (Hybrid) - Charlotte, NC or Indianapolis, IN](https://jobright.ai/jobs/info/69b438693b74eb1e2c8157bc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 13 |
 | **[USAA](https://www.usaa.com)** | **[Inside Property Adjuster](https://jobright.ai/jobs/info/69b4372e569738374138d705?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs Campus | Hybrid | Mar 13 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[Intellectual Property Litigation (Patent) Associate](https://jobright.ai/jobs/info/69a906202580d3183f01363a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Mar 13 |
@@ -409,12 +411,12 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://fenwick.com)** | **[Junior and Mid-Level Patent Litigation Associate](https://jobright.ai/jobs/info/68ce5525dbd9fb154edde85e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Mar 13 |
 | **[Arjo](https://www.arjo.com/int/)** | **[Bilingual Business Projects & Compliance Specialist - Mississauga, ON](https://jobright.ai/jobs/info/69b428903b74eb1e2c8140f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Ontario, Canada | On Site | Mar 13 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[IP Practice Coordinator](https://jobright.ai/jobs/info/6997c2b7ce78e77b4fdc275a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Mar 13 |
+| ↳ | **[IP Practice Coordinator](https://jobright.ai/jobs/info/699d92a781476f6176b66fd6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Mar 13 |
 | ↳ | **[IP Practice Coordinator](https://jobright.ai/jobs/info/6997c31081476f6176afee9f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | ↳ | **[IP Practice Coordinator](https://jobright.ai/jobs/info/6997becd81476f6176afe6e8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | On Site | Mar 13 |
-| ↳ | **[IP Practice Coordinator](https://jobright.ai/jobs/info/699d92a781476f6176b66fd6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | On Site | Mar 13 |
 | ↳ | **[IP Practice Coordinator](https://jobright.ai/jobs/info/6997ad77e0bddb6acac667b0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | On Site | Mar 13 |
-| **[Weiner Law](https://www.weinerlegacylaw.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b4002106c1ba00c5452600?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 13 |
-| ↳ | **[Associate Attorney](https://jobright.ai/jobs/info/69b4002106c1ba00c54525ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Mar 13 |
+| **[Weiner Law](https://www.weinerlegacylaw.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b4002106c1ba00c54525ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Mar 13 |
+| ↳ | **[Associate Attorney](https://jobright.ai/jobs/info/69b4002106c1ba00c5452600?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 13 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[Litigation Associate – Commercial and Employment](https://jobright.ai/jobs/info/69b4001906c1ba00c54525e6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Mar 13 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Paralegal I - Litigation](https://jobright.ai/jobs/info/694771c97d506e3808f2b5ce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | Hybrid | Mar 13 |
 | **[Weiner Law](https://www.weinerlegacylaw.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b3ff2a5697383741388eaa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 13 |
@@ -556,19 +558,19 @@ For a complete list, click the following sortable link below:
 | **[Jensen Estate Law](https://jensenestatelaw.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b30373ae2a534885ea4d11?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle metropolitan area, WA | On Site | Mar 12 |
 | **[WENZEL BENNETT HARRIS PC](http://northernlaw.com)** | **[Estate & Trust Administration Paralegal](https://jobright.ai/jobs/info/69b30351a8ac8e70ff672808?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpena, MI | Hybrid | Mar 12 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Financial Crime Compliance ("FCC") Strategy & Governance Analyst](https://jobright.ai/jobs/info/69799200d7df290257fbe923?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Hybrid | Mar 12 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b32246a8ac8e70ff67519e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-PA-New Castle | On Site | Mar 12 |
-| ↳ | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b327d0ae2a534885ea8a13?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA, US | On Site | Mar 12 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b327d0ae2a534885ea8a13?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA, US | On Site | Mar 12 |
+| ↳ | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b32246a8ac8e70ff67519e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-PA-New Castle | On Site | Mar 12 |
 | ↳ | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b32631ad360c0340a84675?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Castle, PA, US | On Site | Mar 12 |
 | ↳ | **[Small Commericial Property Adjuster](https://jobright.ai/jobs/info/69b32631ad360c0340a8466e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-PA-Pittsburgh | On Site | Mar 12 |
 | **[Coker Accident Lawyers](http://cokeraccidentlawyers.com)** | **[Associate Attorney – Personal Injury](https://jobright.ai/jobs/info/69b2ffa5ad360c0340a81141?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Lawrenceville, GA | Hybrid | Mar 12 |
 | **[Price Benowitz LLP](https://pricebenowitz.com/maryland-injury/upper-marlboro-injury-lawyer/)** | **[Criminal Defense Legal Assistant](https://jobright.ai/jobs/info/69b2ff9aad360c0340a81125?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fairfax, VA | On Site | Mar 12 |
 | **[State Street](https://www.statestreet.com/)** | **[Private Markets Custody Operations Associate 2](https://jobright.ai/jobs/info/69b31dbfad360c0340a831e2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Quincy, Massachusetts | On Site | Mar 12 |
-| **[Nelson Mullins Riley & Scarborough](http://www.nelsonmullins.com)** | **[Litigation Associate](https://jobright.ai/jobs/info/69b327bbae2a534885ea893e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA, US | Hybrid | Mar 12 |
-| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b327bbae2a534885ea893c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Mar 12 |
-| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b3221fa8ac8e70ff6750da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA, US | Hybrid | Mar 12 |
+| **[Nelson Mullins Riley & Scarborough](http://www.nelsonmullins.com)** | **[Litigation Associate](https://jobright.ai/jobs/info/69b325d1ad360c0340a84526?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Torrance | Hybrid | Mar 12 |
 | ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b325d1ad360c0340a84524?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Torrance, CA, US | Hybrid | Mar 12 |
+| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b327bbae2a534885ea893c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Mar 12 |
+| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b327bbae2a534885ea893e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA, US | Hybrid | Mar 12 |
 | ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b3221ea8ac8e70ff6750d2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-San Diego | Hybrid | Mar 12 |
-| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b325d1ad360c0340a84526?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Torrance | Hybrid | Mar 12 |
+| ↳ | **[Litigation Associate](https://jobright.ai/jobs/info/69b3221fa8ac8e70ff6750da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA, US | Hybrid | Mar 12 |
 | **[Modern Family Law](https://www.modernfamilylaw.com/)** | **[Post-Bar Law Clerk/Associate](https://jobright.ai/jobs/info/695d6b9ef1f8465b79f39665?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oakland, CA | Hybrid | Mar 12 |
 | ↳ | **[Post-Bar Law Clerk/Associate](https://jobright.ai/jobs/info/695d69d8f5f3c43f38e23341?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Palo Alto, CA | Hybrid | Mar 12 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Administrative Specialist 1 - Records Request Unit](https://jobright.ai/jobs/info/69b2fa87ae2a534885ea4326?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salem | OSP | General Headquarters | On Site | Mar 12 |
@@ -606,184 +608,184 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Attorney I](https://jobright.ai/jobs/info/69968da4e0bddb6acac50d5f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sioux Falls, SD | On Site | Mar 12 |
 | **[Launch Potato](http://launchpotato.com)** | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d410ad360c0340a7c97b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d410ad360c0340a7c97a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c948?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c942?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c944?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c950?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c947?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c941?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c93e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c949?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c943?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c945?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c951?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c946?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, SC (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c93f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c950?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c942?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c945?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c949?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c940?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c912?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c906?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c907?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c909?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c916?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c910?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c918?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c915?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c917?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c941?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c951?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c943?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c93e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c947?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c948?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c944?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c946?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, SC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d407ad360c0340a7c94b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c905?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c904?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c911?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c908?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c913?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c918?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c917?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c906?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c904?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c910?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c907?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c902?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c909?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c912?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c916?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c915?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c908?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c911?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c913?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c90b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3fcad360c0340a7c903?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8dd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8df?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8de?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8dd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8db?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8de?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2d8ae2a534885ea01b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8db?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8d8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d3f4ad360c0340a7c8e3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2d8ae2a534885ea01b0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2d8ae2a534885ea01b1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2d8ae2a534885ea01b2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0179?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sacramento, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0172?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0178?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0173?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0177?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0175?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0176?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0171?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0173?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0179?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0178?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0176?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0174?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0171?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0172?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea017e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sacramento, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2cfae2a534885ea0175?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c6ae2a534885ea013d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea012d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0131?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0135?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0130?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0133?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0134?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea012e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0136?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0130?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea012f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0137?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0134?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0135?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0133?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0132?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea012d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2c5ae2a534885ea0137?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0109?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0105?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00fc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0106?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00fe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0107?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0102?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sacramento, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0100?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0103?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0104?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0108?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00fd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0105?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0108?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0104?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00fe?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0102?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0101?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0107?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sacramento, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0109?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0106?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea00fc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea0100?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d2b4ae2a534885ea010c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA (remote) | Remote | Mar 12 |
 | **[Edelson PC](https://edelson.com/)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/69b30335ae2a534885ea4c83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | On Site | Mar 12 |
 | **[Launch Potato](http://launchpotato.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a8a8ac8e70ff66dc7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc74?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc66?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc79?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc69?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc75?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc67?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc70?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc71?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc77?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc72?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc74?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc79?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc71?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc67?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc73?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc31?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc43?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc42?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc33?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc75?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston, SC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc72?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc66?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc6b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc68?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc69?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc7c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d1a6a8ac8e70ff66dc77?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc36?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc38?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc40?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc34?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc32?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc37?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc35?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc41?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc43?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc40?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc32?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc39?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc31?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc38?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc41?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc34?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL (hybrid) | Hybrid | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc30?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc2e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ba8ac8e70ff66dc2b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc3c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc33?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc42?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc37?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc2d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ba8ac8e70ff66dc2c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ba8ac8e70ff66dc2b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ba8ac8e70ff66dc2a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d19ba8ac8e70ff66dc2c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d19ca8ac8e70ff66dc2e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d195a8ac8e70ff66dc26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d194a8ac8e70ff66dc22?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL (hybrid) | Hybrid | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc15?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc16?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sacramento, CA (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc15?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc1b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc1a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc13?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d192a8ac8e70ff66dc17?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc06?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc0f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc0c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL (hybrid) | Hybrid | Mar 12 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc07?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc06?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc0b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT (remote) | Remote | Mar 12 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc11?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc05?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc0f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO (remote) | Remote | Mar 12 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc11?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d191a8ac8e70ff66dc10?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH (remote) | Remote | Mar 12 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d190a8ac8e70ff66dc03?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC (remote) | Remote | Mar 12 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d190a8ac8e70ff66dc00?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Mar 12 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d190a8ac8e70ff66dc03?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC (remote) | Remote | Mar 12 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d190a8ac8e70ff66dc02?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ (remote) | Remote | Mar 12 |
 | **[M&T Bank](http://www.mtb.com)** | **[Foreclosure Specialist II - Milestone Processing: Hybrid, Getzville, NY](https://jobright.ai/jobs/info/69b2cc8ca8ac8e70ff66d5eb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Getzville, NY | Hybrid | Mar 12 |
 | **[Internet Brands](http://www.internetbrands.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/697931db52f3c27ec6457b63?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Minneapolis, MN | On Site | Mar 12 |
@@ -811,8 +813,8 @@ For a complete list, click the following sortable link below:
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Paralegal](https://jobright.ai/jobs/info/6996c7edce78e77b4fdb0218?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Madison, WI | Hybrid | Mar 12 |
 | **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[LITIGATION INTAKE ASSOCIATE ATTORNEY $120,000 Plus Commission](https://jobright.ai/jobs/info/697967ed39f7f96cc6d1f137?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Mar 12 |
 | ↳ | **[Briefing and Research Attorney $100,000 + Bonus](https://jobright.ai/jobs/info/697971a90791bc1d72301a3d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | On Site | Mar 12 |
-| ↳ | **[Briefing and Research Attorney $100,000](https://jobright.ai/jobs/info/697979f50791bc1d7230211b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Corpus Christi, TX | On Site | Mar 12 |
 | ↳ | **[Paralegal $57,960](https://jobright.ai/jobs/info/6979566a88e2b47213bd8bf6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irving, TX | On Site | Mar 12 |
+| ↳ | **[Briefing and Research Attorney $100,000](https://jobright.ai/jobs/info/697979f50791bc1d7230211b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Corpus Christi, TX | On Site | Mar 12 |
 | ↳ | **[Compliance Auditor - Entry Level $33,280](https://jobright.ai/jobs/info/697954b652f3c27ec645b795?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Litigation Associate Attorney $150,000 + Commission + Bonus](https://jobright.ai/jobs/info/69a3e81b359fe034b1ced0a2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Mar 12 |
 | **[Capital on Tap](https://www.capitalontap.com)** | **[Financial Crime Compliance Analyst](https://jobright.ai/jobs/info/69b2970dad360c0340a76a32?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York | Hybrid | Mar 12 |
@@ -866,16 +868,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Professional Liability Associate Attorney](https://jobright.ai/jobs/info/69b2267065de58104c719c82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Mar 11 |
 | ↳ | **[Products Liability Associate Attorney](https://jobright.ai/jobs/info/69b22669548f140066e8646a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | ↳ | **[Workers' Compensation Associate Attorney](https://jobright.ai/jobs/info/69b2266665de58104c719c5a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Bernardino, CA | On Site | Mar 11 |
-| ↳ | **[Professional Liability Attorney](https://jobright.ai/jobs/info/69b2265dd04c69566c74db56?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | On Site | Mar 11 |
 | ↳ | **[Consumer Warranty & Lemon Law Associate Attorney](https://jobright.ai/jobs/info/69b2265dd04c69566c74db55?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
+| ↳ | **[Professional Liability Attorney](https://jobright.ai/jobs/info/69b2265dd04c69566c74db56?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Walnut Creek, CA | On Site | Mar 11 |
 | ↳ | **[General Liability Attorney](https://jobright.ai/jobs/info/69b2265dd04c69566c74db52?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Costa Mesa, CA | On Site | Mar 11 |
 | ↳ | **[Workers' Compensation Attorney](https://jobright.ai/jobs/info/69b2265cd04c69566c74db50?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
-| ↳ | **[Toxic Tort & Environmental Associate Attorney](https://jobright.ai/jobs/info/69b22657548f140066e8640d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | ↳ | **[Insurance Coverage Associate Attorney](https://jobright.ai/jobs/info/69b22657548f140066e8640b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Mar 11 |
+| ↳ | **[Toxic Tort & Environmental Associate Attorney](https://jobright.ai/jobs/info/69b22657548f140066e8640d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | ↳ | **[General Liability Attorney](https://jobright.ai/jobs/info/69b2265565de58104c719c1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Mar 11 |
 | ↳ | **[Workers' Compensation Associate Attorney](https://jobright.ai/jobs/info/69b22652d04c69566c74db23?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Mar 11 |
-| ↳ | **[Professional Liability Attorney](https://jobright.ai/jobs/info/69b2264c548f140066e863dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Mar 11 |
 | ↳ | **[Toxic Tort & Environmental Associate Attorney](https://jobright.ai/jobs/info/69b2264c548f140066e863db?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Bernardino, CA | On Site | Mar 11 |
+| ↳ | **[Professional Liability Attorney](https://jobright.ai/jobs/info/69b2264c548f140066e863dc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | On Site | Mar 11 |
 | ↳ | **[General Liability Attorney](https://jobright.ai/jobs/info/69b2264ad04c69566c74db01?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Bernardino, CA | On Site | Mar 11 |
 | ↳ | **[Workers' Compensation Attorney](https://jobright.ai/jobs/info/69b22642d04c69566c74dae3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | On Site | Mar 11 |
 | ↳ | **[General Liability Attorney](https://jobright.ai/jobs/info/69b2263d65de58104c719beb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | On Site | Mar 11 |
@@ -893,25 +895,25 @@ For a complete list, click the following sortable link below:
 | **[Launch Potato](http://launchpotato.com)** | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d20ae2a534885ea9125?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cbaad360c0340a851a1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d47ae2a534885ea9233?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cf6a8ac8e70ff676df9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cc7ad360c0340a851bb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32c8fad360c0340a85107?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32caca8ac8e70ff676d30?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cb2ad360c0340a85180?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cc7ad360c0340a851bb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ce0a8ac8e70ff676db6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cf6a8ac8e70ff676df9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ca7ad360c0340a85160?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston County, SC | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ce0a8ac8e70ff676db7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cf6a8ac8e70ff676df8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d03a8ac8e70ff676e1c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32c7aad360c0340a850da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ccea8ac8e70ff676d91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ce0a8ac8e70ff676db7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d51ae2a534885ea9270?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32c7aad360c0340a850da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32caca8ac8e70ff676d2f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ca4a8ac8e70ff676d07?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ccea8ac8e70ff676d92?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d0eae2a534885ea9100?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d51ae2a534885ea926f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d03a8ac8e70ff676e1c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ca4a8ac8e70ff676d07?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32ccea8ac8e70ff676d91?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d6cae2a534885ea932c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d51ae2a534885ea926f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d0eae2a534885ea9100?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC | Remote | Mar 11 |
 | **[Near North Title Group](https://nntg.com)** | **[Residential Escrow Officer](https://jobright.ai/jobs/info/69b32c84a8ac8e70ff676cd5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Albert Lea, MN | On Site | Mar 11 |
 | **[Launch Potato](http://launchpotato.com)** | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32d33ae2a534885ea91b8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b32cdfad360c0340a851da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Houston | Remote | Mar 11 |
@@ -919,84 +921,84 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Associate Attorney, Washington DC Regional](https://jobright.ai/jobs/info/69b20d4c65de58104c7179a7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Washington, DC | Hybrid | Mar 11 |
 | **[Launch Potato](http://launchpotato.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69b31186ae2a534885ea5633?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b311a5ae2a534885ea5667?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b311a5ae2a534885ea5666?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Houston | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31079a8ac8e70ff6730e9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b3110fad360c0340a81bfc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31065a8ac8e70ff6730c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b311a5ae2a534885ea5666?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Houston | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b3110fad360c0340a81bfd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston County, SC | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31065a8ac8e70ff6730c6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b311aeae2a534885ea567b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31170ae2a534885ea5619?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b31071a8ac8e70ff6730da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31134ad360c0340a81c1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b3113ead360c0340a81c2c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31134ad360c0340a81c1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MO | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3111ead360c0340a81c08?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3119aae2a534885ea5657?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b3111ead360c0340a81c09?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3119aae2a534885ea5659?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3119aae2a534885ea5657?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3111ead360c0340a81c08?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b3113ead360c0340a81c2b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b31082a8ac8e70ff6730f6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b311a5ae2a534885ea5668?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b31082a8ac8e70ff6730f6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b31108ad360c0340a81bf0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b3118dae2a534885ea5643?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4a4ad360c0340a8053d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f49dad360c0340a80536?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a7d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a81?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aa8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a89?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f37fae2a534885ea3e8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f34bae2a534885ea3e3c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4abad360c0340a8054c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f496ad360c0340a8052f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4a5ad360c0340a80541?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a7d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f37fae2a534885ea3e8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a89?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aa8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4c5ad360c0340a80572?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Houston | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta, GA | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f371ae2a534885ea3e71?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4abad360c0340a8054c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Manchester, NH | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f71ca8ac8e70ff671abc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80564?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f496ad360c0340a8052f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4a5ad360c0340a80541?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aa9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MO | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f371ae2a534885ea3e73?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a77?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aa9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MO | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80564?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4a5ad360c0340a80540?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a76?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f34bae2a534885ea3e3e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80565?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b2ad360c0340a80556?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4dfad360c0340a805a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f37fae2a534885ea3e89?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f49dad360c0340a80535?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a75?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Orlando | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80563?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e35?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b2ad360c0340a80558?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f49dad360c0340a80537?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a99?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80563?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b2ad360c0340a80556?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f49dad360c0340a80535?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f37fae2a534885ea3e89?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f34bae2a534885ea3e3e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e35?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Raleigh, NC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f34bae2a534885ea3e3d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Nashua, NH | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b2ad360c0340a80558?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a99?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4b8ad360c0340a80565?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4d0ad360c0340a8058c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a80?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4dfad360c0340a805a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a75?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Orlando | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f4a5ad360c0340a8053f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Newark, NJ | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | American Fork, UT | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aaa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f4c5ad360c0340a80570?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, SC | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e37?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f6eda8ac8e70ff671a78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burlington, VT | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a80?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f4d0ad360c0340a8058c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Concord, NH | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aaa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a7f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e36?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e37?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cincinnati, OH | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, MO | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f4abad360c0340a80549?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f360ae2a534885ea3e58?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6fba8ac8e70ff671a8c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2f70ca8ac8e70ff671aab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tucson, AZ | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f4abad360c0340a80549?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f360ae2a534885ea3e58?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f343ae2a534885ea3e36?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f6f2a8ac8e70ff671a7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2f4a4ad360c0340a8053e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2f704a8ac8e70ff671a9b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT | Remote | Mar 11 |
@@ -1004,69 +1006,69 @@ For a complete list, click the following sortable link below:
 | **[Faber & Brand, LLC](https://faberbrand.com)** | **[Complex Litigation Clerk Part-time](https://jobright.ai/jobs/info/69b573d306c1ba00c54746a2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbia, MO, US | On Site | Mar 11 |
 | **[Launch Potato](http://launchpotato.com)** | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b30cdfad360c0340a81a9f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charlotte, NC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0360?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0355?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4c8a8ac8e70ff66ddb3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0355?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb7e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb84?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb7f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d83aad360c0340a7cb5a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb84?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greenville, SC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4c4a8ac8e70ff66ddab?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d83aad360c0340a7cb5a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d721ae2a534885ea033a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d4cca8ac8e70ff66ddbc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d717ae2a534885ea0324?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb7c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddcb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d717ae2a534885ea0324?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Baltimore, MD | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0358?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Orlando | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston County, SC | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chapel Hill, NC | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddce?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Charleston County, SC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d818ad360c0340a7cafd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d721ae2a534885ea033c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d82aad360c0340a7cb3a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Phoenix, AZ | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d83aad360c0340a7cb5c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Kansas City, KS | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea0350?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d721ae2a534885ea033c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d721ae2a534885ea0339?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boulder, CO | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d735ae2a534885ea0375?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0354?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tulsa, OK | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4dfa8ac8e70ff66de12?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d82aad360c0340a7cb3c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0361?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MO | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d735ae2a534885ea0375?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea0350?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Colorado Springs, CO | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0362?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea034e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Paul, MO | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d82aad360c0340a7cb3c?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0361?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Riverside, CA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4dfa8ac8e70ff66de12?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cleveland, OH | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d72aae2a534885ea0353?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Orlando | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddcf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea034e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d721ae2a534885ea0338?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | St Louis, MO | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddcf?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | West Palm Beach, FL | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb78?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d717ae2a534885ea0328?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | LA Metro Area | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d717ae2a534885ea0326?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb80?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hartford, CT | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d82aad360c0340a7cb3b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d735ae2a534885ea0374?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Alpharetta, GA | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d82aad360c0340a7cb3b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jersey City, NJ | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d717ae2a534885ea0326?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Buffalo, NY | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea0351?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb7b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4c8a8ac8e70ff66ddb0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4c4a8ac8e70ff66ddac?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Oklahoma City, OK | Remote | Mar 11 |
 | ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Sacramento | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d729ae2a534885ea0351?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb82?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddcd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Salt Lake City, UT | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d858ad360c0340a7cba5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Columbus, OH | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb83?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Lauderdale, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4d2a8ac8e70ff66ddd4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d84bad360c0340a7cb7b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New Haven, CT | Remote | Mar 11 |
-| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d721ae2a534885ea033b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS | Remote | Mar 11 |
-| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL | Remote | Mar 11 |
-| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d721ae2a534885ea0337?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | Remote | Mar 11 |
 | ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | California, United States | Remote | Mar 11 |
+| ↳ | **[Compliance Associate, FinTech](https://jobright.ai/jobs/info/69b2d721ae2a534885ea0337?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Jacksonville, FL | Remote | Mar 11 |
+| ↳ | **[Affiliate Compliance Specialist](https://jobright.ai/jobs/info/69b2d721ae2a534885ea033b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wichita, KS | Remote | Mar 11 |
 | ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d4dfa8ac8e70ff66de11?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Remote | Mar 11 |
+| ↳ | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2d72aae2a534885ea035d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Delray Beach, FL | Remote | Mar 11 |
 | **[Maryland Judiciary](https://www.mdcourts.gov/careers)** | **[Land Records Clerk](https://jobright.ai/jobs/info/69a8cd352580d3183f00e61f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Centreville, MD | Hybrid | Mar 11 |
 | **[TBA Credit Union](https://www.tbacu.com/)** | **[Security & Compliance Specialist](https://jobright.ai/jobs/info/69b2263865de58104c719bd9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Traverse City, MI, US | Hybrid | Mar 11 |
 | **[Launch Potato](http://launchpotato.com)** | **[Compliance Specialist](https://jobright.ai/jobs/info/69b2da36a8ac8e70ff66e9a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Durham, NC | Remote | Mar 11 |
@@ -1078,16 +1080,16 @@ For a complete list, click the following sortable link below:
 | **[Y Combinator](http://www.ycombinator.com)** | **[Legal Analyst](https://jobright.ai/jobs/info/69b314b7a8ac8e70ff67336a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Remote (US) | Remote | Mar 11 |
 | **[Abramson Labor Group](https://abramsonlaborgroup.com/)** | **[Resolution Paralegal, Workers' Compensation (Remote) - Must Reside in California](https://jobright.ai/jobs/info/69b1ff33548f140066e82ff5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Burbank, CA | Remote | Mar 11 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Title and Registration Specialist I](https://jobright.ai/jobs/info/69b1fb0fd04c69566c749ed6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | On Site | Mar 11 |
-| **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fb0b65de58104c7166f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | Hybrid | Mar 11 |
-| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fb0b65de58104c7166f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Mar 11 |
+| **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fb0b65de58104c7166f9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | Hybrid | Mar 11 |
+| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fb0b65de58104c7166f8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA | Hybrid | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fb03d04c69566c749e8d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1faf1d04c69566c749e5b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1fadbd04c69566c749e12?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | Hybrid | Mar 11 |
-| **[First Interstate](https://firstinterstate.com)** | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fadad04c69566c749dfd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boise, ID | On Site | Mar 11 |
-| ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fadad04c69566c749e02?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Billings, MT | On Site | Mar 11 |
+| **[First Interstate](https://firstinterstate.com)** | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fadad04c69566c749e02?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Billings, MT | On Site | Mar 11 |
+| ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fadad04c69566c749dfd?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Boise, ID | On Site | Mar 11 |
 | ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fac665de58104c716626?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Sioux Falls, SD | On Site | Mar 11 |
-| ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fac5548f140066e827a7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Mar 11 |
 | ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fac5548f140066e827a6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Bend, OR | On Site | Mar 11 |
+| ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fac5548f140066e827a7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver, CO | On Site | Mar 11 |
 | ↳ | **[Director of Enterprise Risk Management](https://jobright.ai/jobs/info/69b1fac565de58104c716625?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Omaha, NE | On Site | Mar 11 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1f722548f140066e82158?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, United States | Hybrid | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1f707548f140066e82127?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami, FL | Hybrid | Mar 11 |
@@ -1104,8 +1106,8 @@ For a complete list, click the following sortable link below:
 | **[MANDARICH LAW GROUP, LLP](https://mandarichlaw.com/)** | **[Legal Admin - Media](https://jobright.ai/jobs/info/69b1efca548f140066e80c56?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 11 |
 | **[Rose, Klein & Marias LLP](https://www.rkmlaw.net)** | **[Litigation Associate](https://jobright.ai/jobs/info/69b1ed9365de58104c714331?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Fairstone Bank](https://www.fairstone.ca)** | **[Legal Counsel](https://jobright.ai/jobs/info/69b1eb48548f140066e7ff0f?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
-| **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1e9e4d04c69566c746e44?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta Metro | Hybrid | Mar 11 |
-| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1e9e4d04c69566c746e45?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Hybrid | Mar 11 |
+| **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1e9e4d04c69566c746e45?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Hybrid | Mar 11 |
+| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1e9e4d04c69566c746e44?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta Metro | Hybrid | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1e9c365de58104c713790?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas, TX | Hybrid | Mar 11 |
 | **[Fairstone Bank](https://www.fairstone.ca)** | **[Legal Counsel](https://jobright.ai/jobs/info/69b1e9b8d04c69566c746d70?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
 | **[CardWorks](http://www.cardworks.com)** | **[Associate I, Fraud Strategy & Prevention](https://jobright.ai/jobs/info/69b1e6a2d04c69566c74640d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Pittsburgh, PA | Hybrid | Mar 11 |
@@ -1136,8 +1138,8 @@ For a complete list, click the following sortable link below:
 | **[ServiceLink](https://www.svclnk.com)** | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1c93b548f140066e799d6?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA, US | Remote | Mar 11 |
 | **[Torys LLP](http://www.torys.com)** | **[Assistant, Risk Management](https://jobright.ai/jobs/info/69b1c92e548f140066e79981?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CA-ON-Toronto | Hybrid | Mar 11 |
 | **[Hightower, Stratton, Novigrod & Kantor](https://www.hightowerlaw.net/)** | **[Associate Attorney](https://jobright.ai/jobs/info/68ff97b1e04ac838fb5b9895?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tampa, FL | On Site | Mar 11 |
-| **[Law Offices of Robert S. Gitmeid & Assoc. PLLC](www.gitmeidlaw.com)** | **[Associate Attorney, Las Vegas](https://jobright.ai/jobs/info/69b1c837d04c69566c741405?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 11 |
-| ↳ | **[Associate Attorney, South Carolina](https://jobright.ai/jobs/info/69b1c837d04c69566c741402?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 11 |
+| **[Law Offices of Robert S. Gitmeid & Assoc. PLLC](www.gitmeidlaw.com)** | **[Associate Attorney, South Carolina](https://jobright.ai/jobs/info/69b1c837d04c69566c741402?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 11 |
+| ↳ | **[Associate Attorney, Las Vegas](https://jobright.ai/jobs/info/69b1c837d04c69566c741405?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 11 |
 | **[ServiceLink](https://www.svclnk.com)** | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1c7afd04c69566c741217?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US | Remote | Mar 11 |
 | **[States United Democracy Center](https://statesuniteddemocracy.org/)** | **[Legal Assistant ](https://jobright.ai/jobs/info/69b1c7aa548f140066e797af?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fully Remote | Remote | Mar 11 |
 | **[Lippes Mathias LLP](http://www.lippes.com/)** | **[Associate Attorney -  Business and Commercial Litigation](https://jobright.ai/jobs/info/69b20011d04c69566c74a71a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Syracuse, New York, United States | On Site | Mar 11 |
@@ -1153,9 +1155,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c21c65de58104c70be1e?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Denver | Remote | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c21c65de58104c70be20?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle | Remote | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c211548f140066e785a0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Francisco | Remote | Mar 11 |
-| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c210548f140066e78597?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles | Remote | Mar 11 |
-| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c210548f140066e7859b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami | Remote | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c210548f140066e78596?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago | Remote | Mar 11 |
+| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c210548f140066e7859b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Miami | Remote | Mar 11 |
+| ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1c210548f140066e78597?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles | Remote | Mar 11 |
 | **[PATTERSON BUCHANAN FOBES LEITCH, INC., PS](www.pattersonbuchanan.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/695ef71b0badca5763af7258?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | On Site | Mar 11 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Contracts Specialist](https://jobright.ai/jobs/info/69b1bf7665de58104c70bb95?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Somerset, NJ | On Site | Mar 11 |
 | **[City of Orlando Careers](https://www.governmentjobs.com/careers/orlando)** | **[Assistant City Attorney I/II/III (Real Estate)](https://jobright.ai/jobs/info/69afe7d3f63f733065b402ff?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Orlando, FL | On Site | Mar 11 |
@@ -1185,8 +1187,8 @@ For a complete list, click the following sortable link below:
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Corporate Trust Administrator I](https://jobright.ai/jobs/info/69b1b19e548f140066e77a29?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wilmington, DE | On Site | Mar 11 |
 | **[Law Firms](https://www.marklitwak.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b1b10765de58104c70b141?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cherry Hill, NJ | Hybrid | Mar 11 |
 | **[Kahana Feld](https://kahanafeld.com/)** | **[Paralegal](https://jobright.ai/jobs/info/695d8e5cf1f8465b79f3ce2d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Henderson, NV | Hybrid | Mar 11 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1cbb465de58104c70e1cc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Irvine | Remote | Mar 11 |
-| ↳ | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1cbbb65de58104c70e1ef?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Mar 11 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1cbbb65de58104c70e1ef?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Mar 11 |
+| ↳ | **[Open Order Associate, Default Services- Pre-Foreclosure Title](https://jobright.ai/jobs/info/69b1cbb465de58104c70e1cc?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | US-CA-Irvine | Remote | Mar 11 |
 | **[Clyde & Co](https://www.clydeco.com)** | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1cb7ed04c69566c74173a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Dallas | Remote | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1cb7ed04c69566c74173b?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Atlanta | Remote | Mar 11 |
 | ↳ | **[Property Coverage Attorney](https://jobright.ai/jobs/info/69b1cb7ed04c69566c741738?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine | Remote | Mar 11 |
@@ -1242,8 +1244,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paralegal $47,900](https://jobright.ai/jobs/info/697958a788e2b47213bd8def?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Antonio, TX | On Site | Mar 11 |
 | ↳ | **[LITIGATION INTAKE ASSOCIATE ATTORNEY $120,000 Plus Commission](https://jobright.ai/jobs/info/69796a7888e2b47213bdb3a1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Austin, TX | On Site | Mar 11 |
 | ↳ | **[LITIGATION INTAKE ASSOCIATE ATTORNEY $120,000 Plus Commission](https://jobright.ai/jobs/info/69796b0f39f7f96cc6d1f455?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irving, TX | On Site | Mar 11 |
-| ↳ | **[Litigation Associate Attorney $150,000 + Commission + Bonus](https://jobright.ai/jobs/info/6979500052f3c27ec645b267?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Mar 11 |
 | ↳ | **[Litigation Associate Attorney $150,000 + Commission + Bonus](https://jobright.ai/jobs/info/69a3e86db600907a9629e2c0?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irving, TX | On Site | Mar 11 |
+| ↳ | **[Litigation Associate Attorney $150,000 + Commission + Bonus](https://jobright.ai/jobs/info/6979500052f3c27ec645b267?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Mar 11 |
 | **[Wilshire Law Firm](https://wilshirelawfirm.com)** | **[Associate Attorney - Personal Injury Pre-Litigation](https://jobright.ai/jobs/info/698e0b8c0f6f7e7a2cea16d5?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Thomas J. Henry Law](http://thomasjhenrylaw.com)** | **[Briefing and Research Attorney $100,000](https://jobright.ai/jobs/info/69796a1852f3c27ec645e054?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, TX | On Site | Mar 11 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Compliance Surveillance Analyst](https://jobright.ai/jobs/info/695d8331f1f8465b79f3b57d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Mar 11 |
@@ -1256,8 +1258,8 @@ For a complete list, click the following sortable link below:
 | **[OnPath Credit Union](https://www.beonpath.org)** | **[Financial Advocate (Gonzales)](https://jobright.ai/jobs/info/69b2a09cae2a534885e9bbf2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Gonzales, LA | On Site | Mar 11 |
 | **[Allstate](http://www.allstate.com)** | **[Property Adjuster - Field Estimating - Queens, NY](https://jobright.ai/jobs/info/6994e45de0bddb6acac364ea?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 11 |
 | ↳ | **[Property Adjuster - Inside (Trainee) - Dallas Fort Worth, TX](https://jobright.ai/jobs/info/6995a83e81476f6176ad8610?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Fort Worth, TX | Hybrid | Mar 11 |
-| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[Litigation/Professional Liability Associate](https://jobright.ai/jobs/info/699025960f6f7e7a2cec905a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hackensack, NJ | On Site | Mar 11 |
-| ↳ | **[Employment Litigation Associate Attorney](https://jobright.ai/jobs/info/6990331f0f6f7e7a2ceca0a8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Woodbury, NY | On Site | Mar 11 |
+| **[Kaufman Dolowich LLP](https://www.kaufmandolowich.com/)** | **[Employment Litigation Associate Attorney](https://jobright.ai/jobs/info/6990331f0f6f7e7a2ceca0a8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Woodbury, NY | On Site | Mar 11 |
+| ↳ | **[Litigation/Professional Liability Associate](https://jobright.ai/jobs/info/699025960f6f7e7a2cec905a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Hackensack, NJ | On Site | Mar 11 |
 | **[Rain](https://www.rain.xyz)** | **[Regulatory Compliance Specialist](https://jobright.ai/jobs/info/69b12fa80b2db6275c064ef4?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | District of Columbia, United States | Remote | Mar 11 |
 | **[IKEA](http://www.ikea.com/)** | **[Unit Business Risk and Compliance Co-worker](https://jobright.ai/jobs/info/69b129ec0b2db6275c0642b7?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | San Diego, CA | On Site | Mar 11 |
 | **[KPMG US](http://www.kpmg.com/US)** | **[Associate, Trade & Customs](https://jobright.ai/jobs/info/69b52c013b74eb1e2c82ce14?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
@@ -1353,7 +1355,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceLink](https://www.svclnk.com)** | **[Loan Modification Title Associate, Default Services- Loan Modification Solutions](https://jobright.ai/jobs/info/69b08928dfaeda6ff59a8da8?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Irvine, CA, US | Remote | Mar 10 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Assistant General Counsel - Assisted Outpatient Treatment](https://jobright.ai/jobs/info/69b05b2ddfaeda6ff59a1406?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Queens, NY | On Site | Mar 10 |
 | **[Oasis Legal Services](http://www.oasislegalservices.org)** | **[Paralegal, Removal Defense](https://jobright.ai/jobs/info/69b0593d0b2db6275c041770?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Berkeley, CA | Hybrid | Mar 10 |
-| **[FITCH JOHNSON LARSON, P.A.](http://fitchjohnson.com)** | **[Associate Attorney](https://jobright.ai/jobs/info/69b0590f7495006450966ea1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Roseville, MN | On Site | Mar 10 |
 | **[Rice University](http://www.rice.edu)** | **[IRB Administrator](https://jobright.ai/jobs/info/69b05779dfaeda6ff59a0ba3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Greater Houston | Hybrid | Mar 10 |
 | **[Holman](http://www.holmanauto.com)** | **[Administrator - Licensing & Compliance](https://jobright.ai/jobs/info/69b055f37495006450966550?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Mount Laurel, NJ | On Site | Mar 10 |
 | **[Forward Air Corporation](http://www.forwardair.com)** | **[Carrier Engagement and Compliance Specialist](https://jobright.ai/jobs/info/6993703781476f6176ab0bae?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Cornelius, NC | On Site | Mar 10 |
@@ -1471,12 +1472,12 @@ For a complete list, click the following sortable link below:
 | **[Invenergy](https://invenergy.com)** | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/69af4456749500645093c8bb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | ↳ | **[Analyst, Project Controls Documents & Process](https://jobright.ai/jobs/info/69af4454749500645093c8aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Legal Assistant](https://jobright.ai/jobs/info/69afa72af63f733065b33ad1?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Houston, Texas, United States | On Site | Mar 09 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352eca8ac8e70ff678c98?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CHARLOTTE, NC | On Site | Mar 09 |
-| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352e1ad360c0340a87268?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | MINNEAPOLIS, MN | On Site | Mar 09 |
-| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b3531eae2a534885eab5e9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SAINT LOUIS, MO | On Site | Mar 09 |
-| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352eca8ac8e70ff678c97?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SAINT LOUIS, MO | On Site | Mar 09 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352e1ad360c0340a87267?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CHARLOTTE, NC | On Site | Mar 09 |
 | ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b3531eae2a534885eab5ec?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | MINNEAPOLIS, MN | On Site | Mar 09 |
-| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352e1ad360c0340a87267?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CHARLOTTE, NC | On Site | Mar 09 |
+| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b3531eae2a534885eab5e9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SAINT LOUIS, MO | On Site | Mar 09 |
+| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352e1ad360c0340a87268?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | MINNEAPOLIS, MN | On Site | Mar 09 |
+| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352eca8ac8e70ff678c98?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CHARLOTTE, NC | On Site | Mar 09 |
+| ↳ | **[Supervisory Control Associate](https://jobright.ai/jobs/info/69b352eca8ac8e70ff678c97?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | SAINT LOUIS, MO | On Site | Mar 09 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC DEFENDER I](https://jobright.ai/jobs/info/69af4154749500645093c5aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Little Rock, AR | On Site | Mar 09 |
 | **[University of Illinois System](https://www.uillinois.edu/)** | **[Legal Fellow - UIUC](https://jobright.ai/jobs/info/69af3adf6b21de023e606cec?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Urbana, IL | Hybrid | Mar 09 |
 | **[Rakower Law PLLC](http://www.rakowerlaw.com)** | **[Litigation Paralegal](https://jobright.ai/jobs/info/69af39e1dfaeda6ff5975909?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | New York, NY | On Site | Mar 09 |
@@ -1532,8 +1533,8 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Finance Business Compliance Analyst I](https://jobright.ai/jobs/info/69aef6c56b21de023e600d26?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wake County, NC | Hybrid | Mar 09 |
 | **[GGRM Law Firm](https://ggrmlawfirm.com)** | **[Paralegal](https://jobright.ai/jobs/info/6892f428f5ee707a15dca8d9?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | On Site | Mar 09 |
 | **[NC Department of Health and Human Services](https://www.ncdhhs.gov/)** | **[Finance Business Compliance Analyst I](https://jobright.ai/jobs/info/69b049f8dfaeda6ff599e451?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Wake County, NC | Hybrid | Mar 09 |
-| **[Travelers](https://www.travelers.com)** | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aef03d7495006450936068?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NJ - Morristown | Hybrid | Mar 09 |
-| ↳ | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aef03d749500645093606a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NY - Melville | Hybrid | Mar 09 |
+| **[Travelers](https://www.travelers.com)** | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aef03d749500645093606a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NY - Melville | Hybrid | Mar 09 |
+| ↳ | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aef03d7495006450936068?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NJ - Morristown | Hybrid | Mar 09 |
 | ↳ | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aeeffedfaeda6ff596f5f3?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | PA - Blue Bell | Hybrid | Mar 09 |
 | ↳ | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aeeea96b21de023e600690?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | CT - Hartford | Hybrid | Mar 09 |
 | ↳ | **[Associate Paralegal, In-House Coverage Litigation Firm](https://jobright.ai/jobs/info/69aeeea86b21de023e60068a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | NY - New York City | Hybrid | Mar 09 |
@@ -1548,8 +1549,7 @@ For a complete list, click the following sortable link below:
 | **[GEICO](http://www.geico.com)** | **[Personal Injury Claims Examiner](https://jobright.ai/jobs/info/69aede8d6b21de023e5ff2db?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Marlton, NJ | On Site | Mar 09 |
 | **[Cray Huber Horstman Heil & VanAusdal LLC](https://www.crayhuber.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/69aeddf774950064509345aa?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Prince & Hart of the Prince Law Group](https://www.princelawgroup.com)** | **[Licensed Associate Attorney – Connecticut](https://jobright.ai/jobs/info/69aeda11dfaeda6ff596d19a?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Stamford, CT | Hybrid | Mar 09 |
-| **[U.S. Bank](http://www.usbank.com)** | **[RCA Specialist](https://jobright.ai/jobs/info/69aed9477495006450933601?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 09 |
-| ↳ | **[RCA Specialist](https://jobright.ai/jobs/info/69aed93edfaeda6ff596cf1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Owensboro, KY | Hybrid | Mar 09 |
+| **[U.S. Bank](http://www.usbank.com)** | **[RCA Specialist](https://jobright.ai/jobs/info/69aed93edfaeda6ff596cf1d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Owensboro, KY | Hybrid | Mar 09 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Century City, Chicago, Orange County, Philadelphia, San Francisco, Seattle, Silicon Valley and Washington, D.C. – Intellectual Property Disputes – Junior/Midlevel Associate](https://jobright.ai/jobs/info/6744a891f74e388500a3f631?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[My RIA Lawyer](http://www.myrialawyer.com)** | **[Securities - RIA Compliance Analyst (NOT IT/CYBER, MEDICAL, or BANKING Auditors/Analysts)](https://jobright.ai/jobs/info/69aed0f25224a240f103cea2?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | United States | Remote | Mar 09 |
 | **[Friedman Vartolo LLP](https://friedmanvartolo.com)** | **[Entry Level Attorney](https://jobright.ai/jobs/info/69aecf69bd1a716b4310585d?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Philadelphia, PA | On Site | Mar 09 |
@@ -1599,6 +1599,4 @@ For a complete list, click the following sortable link below:
 | **[King County, WA](http://kingcounty.gov/)** | **[Paralegal I - District Court Unit (Internal Applicants Only)](https://jobright.ai/jobs/info/69b509063b74eb1e2c828a34?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Seattle, WA | Hybrid | Mar 08 |
 | **[Hooks Meng & Clement, PLLC.](http://www.hmc.law)** | **[Associate Attorney](https://jobright.ai/jobs/info/69ae5dfa3de6821aaccdb5da?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Las Vegas, NV | On Site | Mar 08 |
 | **[State of Florida](http://www.myflorida.com)** | **[REGULATORY CONSULTANT (WT: MS COMPLIANCE OFFICER I) - 76004718](https://jobright.ai/jobs/info/69afb9addfaeda6ff5986806?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Tallahassee, FL | On Site | Mar 08 |
-| **[Ledbetter Cowan Law Group](https://www.ledbetterlawfl.com/)** | **[Associate Attorney](https://jobright.ai/jobs/info/69ae3a6b7c309707d4af5937?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Venice, FL | On Site | Mar 08 |
-| ↳ | **[Legal Secretary](https://jobright.ai/jobs/info/69ae3a493de6821aaccd74cb?utm_campaign=Legal%20and%20Compliance&utm_source=1103)** | Venice, FL | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
