@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Related Canada resource
+
+- [Hanzilla Jobs – Canadian new grad and junior jobs](https://jobs.hanzilla.co/new-grad/) — a free, daily-updated board for Canadian students and recent graduates looking for new-grad, junior, internship, co-op, and entry-level roles across legal/compliance-adjacent work plus tech, finance, engineering, business, sciences, arts, and related fields.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
